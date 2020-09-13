@@ -1,0 +1,57 @@
+.active{
+    text-decoration: line-through;
+    color: #c4c4c4;
+    opacity: .5;
+
+}
+
+.uls{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-size: 24px;
+}
+
+.uls li{
+    width: 100%;
+    margin-bottom: 20px;
+
+    padding: 20px;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #474747;
+}
+
+.span{
+    width: 100%;
+    max-width: 400px;
+}
+
+.strong{
+    margin: 0 20px ;
+}
+
+.input{
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+}
+
+.btn{
+    width: 2.1rem;
+    height: 2rem;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background-color: #e5e5e5;
+    border-radius: 3px;
+    transition: all .2s linear;
+}
+.btn:hover{
+    background-color: #474747;
+    color:#fff ;
+
+}

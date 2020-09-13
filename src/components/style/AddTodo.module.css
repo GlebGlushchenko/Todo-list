@@ -1,0 +1,32 @@
+.input{
+    width: 250px;
+    border: none;
+    height: 30px;
+    outline: none;
+    text-align: center;
+    color: #474747;
+    border-radius: 3px;
+    display: block;
+    margin-bottom: 10px ;
+}
+.btn{
+    width: 100px;
+    height: 33px;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px;
+    color: #474747;
+    outline: none;
+    transition: all .2s linear;
+    border-radius: 3px;
+}
+.btn:hover{
+    background-color: #474747;
+    color:#fff ;
+}
+
+.form{
+    margin-bottom: 20px;
+    text-align: center;
+
+}
